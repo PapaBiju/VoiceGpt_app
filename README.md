@@ -96,4 +96,9 @@ The application utilises Firebase as its designated database platform, where all
 DataStructure used by Firestore is List<Map<String,String> as given in below screenshots
 <br>
 Firebase Authentication (3 Emails were used for testing):
-
+<br>
+![1](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/a639a866-c792-46e8-bf2e-44fd56b32610)
+<br>
+Cloud Firestore:
+apiKey:
+<br>
