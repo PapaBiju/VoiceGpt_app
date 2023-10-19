@@ -1,16 +1,6 @@
 # ai_app
 
-Rubrics for the project:
-
-- Minimum 3 navigatable pages (15)
-- API call implementation is must (20)
-- Design inspiration links should be provided in readme (10)
-- Process to how to run the project should be there (10)
-- Implementation (25)
-- File structure (10)
-- Database Implementation / Data structure used (10)
-
-This APP made by Akhil Biju 21BEE1266
+**This APP made by Akhil Biju 21BEE1266**
 
 
 _**<--This is the Intro of my APP**_
