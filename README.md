@@ -90,7 +90,7 @@ Firebase Authentication (3 Emails were used for testing):
 Cloud Firestore:<br>
 apiKey:
 <br>
-![2](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/d18399a3-3ca9-4859-9547-6006fde3a7e8)
+![2](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/e7bcf3f8-61fe-4053-8f0f-bf2b25c502cb)
 <br>
 History:
 ![3](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/1bd5bf6e-d535-437d-aec7-c61353bb031f)
