@@ -70,7 +70,7 @@ _**<--Process to how to run the project should be there**_
 5) Now, select a device and run the project using the command - flutter run.
 6) The app will run seamlessly on your selected device.
 7) To use the voice features of the application, you need to run the app on the physical device instead of the emulator. 
-
+8) Ensure you have good internet connection while running the APP.
 To directly download the application into your mobile, go to this drive link and download the apk file - https://drive.google.com/drive/folders/188rqgQhvXdOVNdOaRwA4JMl9f_pjpZ3G?usp=sharing ""
 
 You may get a prompt like this - "This document might contain unsafe content. Make sure you trust the sender before you open it". 
