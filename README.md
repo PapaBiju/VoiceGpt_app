@@ -56,8 +56,14 @@ https://www.figma.com/file/DbgctMxCEyCCziMWhV0O3X/Gpt?type=design&node-id=0%3A1&
 4) Recommended editor - VSCode
 5) Now, select a device and run the project using the command - flutter run.
 6) The app will run seamlessly on your selected device.
-7) To use the voice features of the application, you need to run the app on the physical device instead of the emulator. To directly download the application into your mobile, go to this drive link and download the apk file - ""
+7) To use the voice features of the application, you need to run the app on the physical device instead of the emulator. 
 
+To directly download the application into your mobile, go to this drive link and download the apk file - ""
+
+You may get a prompt like this - "This document might contain unsafe content. Make sure you trust the sender before you open it". 
+Please ignore this prompt and click on Open/Accept. Now after opening the file give the app all the required permissions, and then start using the app
+While downloading the apk file you may get a prompt like this - "This document might contain unsafe content. Make sure you trust the sender before you open it". 
+Please ignore this prompt and click on Open/Accept. Now after opening the file give the app all the required permissions, and then start using the app
 
 **<--Implementation**
 
@@ -67,3 +73,6 @@ https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/cd012e32-f9c3-4337-865
 **<--File structure**
 
 ![image](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/72523d57-6d1d-4458-a7c0-242118d96f46)
+
+
+**<--Database Implementation / Data structure used**
