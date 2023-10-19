@@ -1,4 +1,4 @@
-# This APP made by Akhil Biju 21BEE1266
+# Akhil Biju 21BEE1266
 
 
 _**<--This is the Intro of my APP**_
@@ -6,7 +6,7 @@ _**<--This is the Intro of my APP**_
 "Voice Assistant App with ChatGPT & Dall-E "is an exciting app that combines the power of AI to make your chats more interesting. You can chat, create images, and even have responses read to you. Plus, your chat history is safe, and we've got you covered if you forget your password. We've implemented a secure Firestore database and seamlessly integrated two powerful APIs - OpenAI for text and DALL-E for image generation. And the best part? We've crafted this app using Flutter, making it a seamless and user-friendly experience. It's your new way to chat and get creative with AI!
 <br>
 
-_**<--Minimum 3 navigatable pages**_
+_**<--Navigatable pages**_
 <br>
 The application is composed of four distinct pages: the Authentication Page, Home Page, Chat Page, and Settings Page. Additionally, the app offers both dark and light themes for user customization.
 <br>
@@ -33,7 +33,7 @@ The application is composed of four distinct pages: the Authentication Page, Hom
 ![11](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/d7261bb6-5552-4575-a191-e87884b8890e)
 ![10](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/0e1614d7-cef1-44e0-b3e2-328c8ab742d5)
 <br>
-_**<--API call implementation is must**_
+_**<--API call Implementation**_
 <br>
 1)Firebase APIs:<br>
 a)FirebaseAuth: This API is used for authentication and user management within your application.<br>
@@ -45,11 +45,11 @@ b)Dall-E: This API, likely referring to OpenAI's DALL-E, is used for generating 
 This project utilizes Firebase APIs for authentication and data management, and OpenAI APIs, including ChatGPT-3.5-Turbo for text-based interactions and DALL-E for generating images from textual descriptions. The API keys for these services are securely stored in Firebase.
 
 
-_**<--Design inspiration links should be provided in readme**_
+_**<--Design Inspiration Link**_
 
 https://www.figma.com/file/DbgctMxCEyCCziMWhV0O3X/Gpt?type=design&node-id=0%3A1&mode=design&t=0ZJJMuQpJ8nKaUmm-1
 
-_**<--Process to how to run the project should be there**_
+_**<--Process to how to run the Project**_
 
 1) Clone the project into any directory using the following command  -https://github.com/PapaBiju/VoiceGpt_app.git
 2) Open terminal in the directory which you've cloned and type the following command - "flutter pub get".
