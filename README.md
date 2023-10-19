@@ -1,6 +1,4 @@
-# ai_app
-
-**This APP made by Akhil Biju 21BEE1266**
+# This APP made by Akhil Biju 21BEE1266
 
 
 _**<--This is the Intro of my APP**_
