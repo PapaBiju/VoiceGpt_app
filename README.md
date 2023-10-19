@@ -112,3 +112,8 @@ Queries:
 Usernames:
 
 ![5](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/0436e255-edc4-4b0a-982c-8c2ebe1c9ef9)
+
+
+<br>
+
+_**THANKYOU**_
