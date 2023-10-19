@@ -37,6 +37,7 @@ b)Dall-E: This API, likely referring to OpenAI's DALL-E, is used for generating 
 This project utilizes Firebase APIs for authentication and data management, and OpenAI APIs, including ChatGPT-3.5-Turbo for text-based interactions and DALL-E for generating images from textual descriptions. The API keys for these services are securely stored in Firebase.
 
 **Design inspiration links should be provided in readme**
+
 https://www.figma.com/file/DbgctMxCEyCCziMWhV0O3X/Gpt?type=design&node-id=0%3A1&mode=design&t=0ZJJMuQpJ8nKaUmm-1
 
 **Process to how to run the project should be there**
