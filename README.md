@@ -26,6 +26,7 @@ The application is composed of four distinct pages: the Authentication Page, Hom
 ![Screenshot_2023-10-19-22-56-38-07_2a628c843742fd2373ebc494d6cca635](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/179d711e-eae5-4121-a40f-05b0296d6d37)
 
 
+
 2)HomePage
 
 3)Settings Page
