@@ -61,7 +61,7 @@ https://www.figma.com/file/DbgctMxCEyCCziMWhV0O3X/Gpt?type=design&node-id=0%3A1&
 To directly download the application into your mobile, go to this drive link and download the apk file - ""
 
 You may get a prompt like this - "This document might contain unsafe content. Make sure you trust the sender before you open it". 
-Please ignore this prompt and click on Open/Accept. Now after opening the file give the app all the required permissions, and then start using the app
+Please ignore this prompt and click on Open/Accept. Now after opening the file give the app all the required permissions, and then start using the app.
 While downloading the apk file you may get a prompt like this - "This document might contain unsafe content. Make sure you trust the sender before you open it". 
 Please ignore this prompt and click on Open/Accept. Now after opening the file give the app all the required permissions, and then start using the app
 
