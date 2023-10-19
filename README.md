@@ -13,7 +13,7 @@ Rubrics for the project:
 This APP made by Akhil Biju 21BEE1266
 
 
-_**-This is the Intro of my APP**_
+_**<--This is the Intro of my APP**_
 
 "Voice Assistant App with ChatGPT & Dall-E "is an exciting app that combines the power of AI to make your chats more interesting. You can chat, create images, and even have responses read to you. Plus, your chat history is safe, and we've got you covered if you forget your password. We've implemented a secure Firestore database and seamlessly integrated two powerful APIs - OpenAI for text and DALL-E for image generation. And the best part? We've crafted this app using Flutter, making it a seamless and user-friendly experience. It's your new way to chat and get creative with AI!
 <br>
