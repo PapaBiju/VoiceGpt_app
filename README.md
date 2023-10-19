@@ -12,9 +12,11 @@ Rubrics for the project:
 
 This APP made by Akhil Biju 21BEE1266
 
+
 **<--This is the Intro of my APP**
 
 "Voice Assistant App with ChatGPT & Dall-E "is an exciting app that combines the power of AI to make your chats more interesting. You can chat, create images, and even have responses read to you. Plus, your chat history is safe, and we've got you covered if you forget your password. We've implemented a secure Firestore database and seamlessly integrated two powerful APIs - OpenAI for text and DALL-E for image generation. And the best part? We've crafted this app using Flutter, making it a seamless and user-friendly experience. It's your new way to chat and get creative with AI!
+
 
 **<--Minimum 3 navigatable pages**
 
@@ -28,6 +30,7 @@ The application is composed of four distinct pages: the Authentication Page, Hom
 
 4)Chat Page
 
+
 **<--API call implementation is must**
 
 1)Firebase APIs:
@@ -39,9 +42,11 @@ b)Dall-E: This API, likely referring to OpenAI's DALL-E, is used for generating 
 
 This project utilizes Firebase APIs for authentication and data management, and OpenAI APIs, including ChatGPT-3.5-Turbo for text-based interactions and DALL-E for generating images from textual descriptions. The API keys for these services are securely stored in Firebase.
 
+
 **<--Design inspiration links should be provided in readme**
 
 https://www.figma.com/file/DbgctMxCEyCCziMWhV0O3X/Gpt?type=design&node-id=0%3A1&mode=design&t=0ZJJMuQpJ8nKaUmm-1
+
 
 **<--Process to how to run the project should be there**
 
@@ -53,6 +58,11 @@ https://www.figma.com/file/DbgctMxCEyCCziMWhV0O3X/Gpt?type=design&node-id=0%3A1&
 6) The app will run seamlessly on your selected device.
 7) To use the voice features of the application, you need to run the app on the physical device instead of the emulator. To directly download the application into your mobile, go to this drive link and download the apk file - ""
 
+
 **<--Implementation**
 
 https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/cd012e32-f9c3-4337-865f-671c8bd85362
+
+
+**<--File structure**
+
