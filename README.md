@@ -90,3 +90,10 @@ _**<--File structure**_
 
 _**<--Database Implementation / Data structure used**_
 
+Firebase Authentication is responsible for managing user authentication and handling within the system.
+The application utilises Firebase as its designated database platform, where all queries and responses are stored. Additionally, the images generated are temporarily stored by OpenAI.
+<br>
+DataStructure used by Firestore is List<Map<String,String> as given in below screenshots
+<br>
+Firebase Authentication (3 Emails were used for testing):
+
