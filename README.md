@@ -72,6 +72,8 @@ https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/cd012e32-f9c3-4337-865
 
 **<--File structure**
 
+![Screenshot_2023-10-19-22-53-03-75_2a628c843742fd2373ebc494d6cca635](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/4869f21d-dd73-4575-b718-7d2db0fd8527)
+
 ![image](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/72523d57-6d1d-4458-a7c0-242118d96f46)
 
 
