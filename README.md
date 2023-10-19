@@ -105,3 +105,7 @@ apiKey:
 ![2](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/d18399a3-3ca9-4859-9547-6006fde3a7e8)
 <br>
 History:
+![3](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/1bd5bf6e-d535-437d-aec7-c61353bb031f)
+Queries:
+
+Usernames:
