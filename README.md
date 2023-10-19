@@ -23,7 +23,7 @@ _**<--Minimum 3 navigatable pages**_
 The application is composed of four distinct pages: the Authentication Page, Home Page, Chat Page, and Settings Page. Additionally, the app offers both dark and light themes for user customization.
 
 1)Login/Signup Page
-![Screenshot_2023-10-19-22-56-38-07_2a628c843742fd2373ebc494d6cca635 (3)](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/495614ef-46e3-4006-846d-13c6b5c98756)
+![1](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/728b4c1b-9a70-4445-a3df-8d5663ad4a4c)
 
 
 
