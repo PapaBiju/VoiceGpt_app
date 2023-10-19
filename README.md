@@ -28,21 +28,21 @@ The application is composed of four distinct pages: the Authentication Page, Hom
 ![2](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/6fda818d-8ac9-4e60-ae32-bea4e88b9502)<br>
 ![3](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/4f616818-af1c-4ffd-9ff0-b005c54a438c)
 ![4](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/6c39d91a-730e-4b71-ad94-22b363d595f0)
-
+<br>
 2)HomePage<br>
 ![5](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/381c8e20-18fa-4b36-a5d9-e4afe76ac31c)<br>
 ![6](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/423d40a0-f9d4-4323-82fd-8153566a00cf)
-
+<br>
 3)Settings Page<br>
 ![7](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/b89851e9-783d-49ba-b4a4-bcb45a7ddcd6)<br>
 ![8](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/6446c4b7-cfec-412f-949e-57bd18f49c7e)
-
+<br>
 4)Chat Page<br>
 ![12](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/ddbf2fbd-8ea2-410c-9f68-853581f43231)
 ![9](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/5071f071-0037-4cb5-852f-5af31089ba18)<br>
 ![11](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/d7261bb6-5552-4575-a191-e87884b8890e)
 ![10](https://github.com/PapaBiju/VoiceGpt_app/assets/112795188/0e1614d7-cef1-44e0-b3e2-328c8ab742d5)
-
+<br>
 _**<--API call implementation is must**_
 <br>
 1)Firebase APIs:<br>
